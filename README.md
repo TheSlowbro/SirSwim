@@ -5,10 +5,12 @@ The device will come out a os known as SlowOS with SirShop build in to install a
 on low end devices like the raspberry pi 5, SlowOS is themed after a the hit famous pokemon Slowpoke (pls dont sue)
 # The SirShop 
 Whlie making i think 16MB LIMIT was too stirct so i think 32MB was a better option but also i want to really get as much from the raspberry pi 5
-I want to have 3 lunch tiltes on 2026 January 6
+I want to have 4 lunch tiltes on 2026 January 6
 
 Journey
 
 Bamboo castle
 
 Rumble and tlit
+
+Sloths
